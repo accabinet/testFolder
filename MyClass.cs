@@ -14,3 +14,11 @@ var a = 1;
 
 
 // let us eventuall commit before we create another branch
+
+
+
+начинаем разрабатывать супер фичу.
+
+Супер переменная=12
+
+Это новый язык программирования
